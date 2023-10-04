@@ -1,0 +1,29 @@
+body{font-family: 'Nunito', sans-serif;
+
+}
+
+h1{
+    font-family: 'Gabarito', cursive;
+color: beige;
+}
+
+header,
+.top{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+
+.box {
+    background-color: rgb(37, 137, 89);
+    padding: 20px 30px
+}
+
+.food{
+    background-color: beige;
+}
