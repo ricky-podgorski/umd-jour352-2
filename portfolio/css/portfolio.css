@@ -1,0 +1,48 @@
+body {
+    font-family: 'Gothic A1', sans-serif;
+}
+
+h1 {
+    font-family: 'Gabarito', sans-serif;
+color: rgb(0, 0, 0);
+font-size: 85px;}
+
+h2{
+    font-family: 'Gabarito', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+h3{    font-family: 'Gabarito', sans-serif;
+    color: rgb(0, 0, 0);
+}
+h4{
+    font-family: 'Gabarito', sans-serif;
+    color: rgb(255, 255, 255);
+
+}
+
+h5{ font-family: 'Gabarito', sans-serif;
+    color: rgb(0, 0, 0);
+    
+
+}
+
+
+
+p{ 
+    text-align: left;
+    color: rgb(255, 255, 255);
+}
+
+.p2{
+color: black;
+
+}
+
+.box{ 
+    background-color: rgb(53, 53, 191);
+}
+
+.box2{
+    background-color: rgb(222, 216, 208);
+}
