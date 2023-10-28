@@ -4,45 +4,54 @@ body {
 
 h1 {
     font-family: 'Gabarito', sans-serif;
-color: rgb(0, 0, 0);
-font-size: 85px;}
-
-h2{
-    font-family: 'Gabarito', sans-serif;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    font-size: 85px;
 }
 
-h3{    font-family: 'Gabarito', sans-serif;
+h2 {
+    font-family: 'Gabarito', sans-serif;
+    color: rgb(8, 8, 8);
+}
+
+h3 {
+    font-family: 'Gabarito', sans-serif;
     color: rgb(0, 0, 0);
 }
-h4{
+
+h4 {
     font-family: 'Gabarito', sans-serif;
-    color: rgb(255, 255, 255);
-
-}
-
-h5{ font-family: 'Gabarito', sans-serif;
     color: rgb(0, 0, 0);
-    
+
+}
+
+h5 {
+    font-family: 'Gabarito', sans-serif;
+    color: rgb(0, 0, 0);
+
+
+}
+
+h6 {
+    font-family: 'Gabarito', sans-serif;
+    color: rgb(0, 0, 0);
 
 }
 
 
-
-p{ 
+p {
     text-align: left;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
-.p2{
-color: black;
 
+.box {
+    background-color: rgb(163, 163, 217);
 }
 
-.box{ 
-    background-color: rgb(53, 53, 191);
-}
-
-.box2{
+.box2 {
     background-color: rgb(222, 216, 208);
+}
+
+body {
+    background-color: antiquewhite;
 }
