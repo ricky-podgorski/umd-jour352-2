@@ -1,0 +1,67 @@
+.results{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+
+header{
+    min-height: 100vh;
+background-color: black;
+color: white;
+text-align: center;
+font-family:'Inconsolata', monospace;
+
+}
+
+
+
+
+.results section{
+    min-height: 80vh;
+    padding-top: 25%;
+    padding-left: 15%;
+}
+
+
+
+h1{
+    text-align: center;
+    font-family:'Inconsolata', monospace;
+
+}
+
+.intro{
+    text-align: center;
+    font-family:'Inconsolata', monospace;
+}
+
+h2{
+    font-family:'Inconsolata', monospace;
+ padding-top: 10%;
+}
+
+h3{
+    font-family:'Inconsolata', monospace;
+
+}
+
+h5{
+    font-family:'Inconsolata', monospace;
+text-align: center;
+padding-top: 30%;
+font-size: larger;
+}
+
+blockquote{
+    color: red;
+    font-family:'Inconsolata', monospace;
+padding-top: 5%;
+padding-bottom: 5%;
+}
+
+footer{
+text-align: center;
+color: red;
+font-family:'Inconsolata', monospace;
+}
