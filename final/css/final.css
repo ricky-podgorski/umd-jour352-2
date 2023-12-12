@@ -1,84 +1,32 @@
-h1{
-    font-family: 'Bebas Neue', sans-serif;
-text-align: center;
-font-size: 65px;
-padding-bottom: 2%;
-color: black;
-
-}
-
-p{
+body {
+    background-color: #cdcdcd;
     font-family: 'PT Sans Narrow', sans-serif;
     font-size: 25px;
     color: black;
 }
-
-.container{
-padding-top: 3%;
-padding-bottom: 3%;
-padding-left: 3%;
-padding-right: 3%;
-
-}
-
-.rotational{
-background-color: rgb(182, 77, 77);}
-
-
-h2{
-    font-family: 'Bebas Neue', sans-serif;
-text-align: center;
-font-size: 55px;
-padding-bottom: 2%;
-color: black;
-
-
-}
-
-.closeloss{
-background-color: #868484;
-
-}
-
-h3{
+h1,
+h2 {
     font-family: 'Bebas Neue', sans-serif;
     text-align: center;
-    font-size: 55px;
-    padding-bottom: 2%;
-    color: black;
-
-
-}
-
-.bigten{
-    background-color: rgb(182, 77, 77);}
-
-h4{
-    font-family: 'Bebas Neue', sans-serif;
-    text-align: center;
-    font-size: 55px;
-    padding-bottom: 2%;
-    color: black;
-
-
-}
-
-.bigtenrankings{
-
-    background-color: #868484;
-
-}
-
-.conclusion{
-    background-color: rgb(182, 77, 77);}
-
-h5{
-    font-family: 'Bebas Neue', sans-serif;
-    text-align: center;
-    font-size: 55px;
     padding-bottom: 2%;
     color: black;
 }
-
-
-
+h1 {
+    font-size: 2.6em;
+    color: black;
+}
+h2 {
+    font-size: 2.2em;
+    color: black;
+}
+.container {
+    padding: 3%;
+}
+.red {
+    background-color: rgb(154, 51, 51);
+    color: #cdcdcd;
+}
+iframe,
+main img {
+    margin: 5% 0;
+}
